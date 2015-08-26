@@ -1,0 +1,16 @@
+{
+  "name": "eslint-plugin-lw",
+  "version": "1.0.0",
+  "description": "ESlint plugin for that extra Laurel & Wolf style",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurelandwolf/eslint-plugin-lw.git"
+  },
+  "author": "Laurel & Wolf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laurelandwolf/eslint-plugin-lw/issues"
+  },
+  "homepage": "https://github.com/laurelandwolf/eslint-plugin-lw#readme"
+}
