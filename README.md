@@ -1,4 +1,4 @@
-# lw-eslint-plugin
+# eslint-plugin-lw
 
 ESlint plugin for that extra Laurel &amp; Wolf style.
 
