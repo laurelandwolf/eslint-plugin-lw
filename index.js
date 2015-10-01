@@ -1,6 +1,6 @@
 module.exports = {
   rules: {
-    'lw-function-padding': function (context) {
+    'function-padding': function (context) {
 
       function functionPadding (node) {
 
@@ -32,6 +32,6 @@ module.exports = {
     }
   },
   rulesConfig: {
-    'lw-function-padding': 2
+    'function-padding': 2
   }
 };

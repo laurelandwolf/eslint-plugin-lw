@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-lw",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESlint plugin for that extra Laurel & Wolf style",
   "main": "index.js",
   "repository": {
